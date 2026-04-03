@@ -1,0 +1,5 @@
+raw_data/
+*.fastq.gz
+*.sra
+humann_db/
+*.bt2
